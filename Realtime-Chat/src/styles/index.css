@@ -1,0 +1,6 @@
+@import url('Global.css');
+@import url('Reset.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
